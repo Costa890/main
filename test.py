@@ -1,3 +1,3 @@
 print("Hola")
 import viki
-Vadim
+print("Viki")
